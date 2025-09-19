@@ -11,11 +11,17 @@ header {
     padding: 1em;
     text-align: center;
 }
-nav ul {
-  list-style:
-  padding:
-  margin:
-  max-width:
+main {
+  padding: 2em;
+  max-whith: 800px;
+  margin: auto;
 }
-nav ul li {
-  background-color: white   
+footer { 
+  background-color:#FCBBE6;
+  color: white;
+  text-align: center;
+  padding: 1em;
+  position: relative;
+  bottom: 0;  
+  margin-top: 2em;
+}
